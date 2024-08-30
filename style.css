@@ -1,7 +1,8 @@
 h1{
     text-align: center;
     font-size: 40px;
-    color: red;
+    color: rgba(137, 72, 241, 0.925);
+    ;
 }
 
 p1{
@@ -11,7 +12,7 @@ p1{
 h2{
     text-align: center;
     font-size: 40px;
-    color: red;
+    color: rgba(137, 72, 241, 0.925);
 
 }
 
@@ -27,7 +28,8 @@ body {
 
 ul{
     text-align: inherit;
-    color: blue rgb(red, green, blue);
+    color: blue rgb(rgba(137, 72, 241, 0.925);
+    , green, blue);
 }
 
 .cabecalho {
