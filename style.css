@@ -17,7 +17,7 @@ h2{
 }
 
 body {
-    background-color: #9ce22b;
+    background-color: #ffb6c1;
 }
 
 #logo{
@@ -28,12 +28,12 @@ body {
 
 ul{
     text-align: inherit;
-    color: blue rgb(rgba(137, 72, 241, 0.925);
-    , green, blue);
+    color: rgb(162, 232, 235) rgb(rgba(137, 72, 241, 0.925);
+    , #ffb6c1, rgb(162, 232, 235));
 }
 
 .cabecalho {
-    background-color: blue;
+    background-color: rgb(162, 232, 235);
     margin: 0;
     padding: 5%;
 }
